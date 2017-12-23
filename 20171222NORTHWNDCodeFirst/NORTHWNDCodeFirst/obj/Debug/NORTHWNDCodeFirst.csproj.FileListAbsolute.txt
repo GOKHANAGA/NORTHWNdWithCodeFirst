@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\NORTHWNDCodeFirst.dll.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\NORTHWNDCodeFirst.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\NORTHWNDCodeFirst.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\obj\Debug\NORTHWNDCodeFirst.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171222NORTHWNDCodeFirst\NORTHWNDCodeFirst\obj\Debug\NORTHWNDCodeFirst.pdb
